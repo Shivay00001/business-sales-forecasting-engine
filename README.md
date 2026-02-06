@@ -1,3 +1,8 @@
-# business-sales-forecasting-engine
+# Business Sales Forecasting Engine
 
-Initial scaffolding.
+This repository contains the source code and configuration for **business-sales-forecasting-engine**, a part of the advanced engineering showcase.
+
+## Features
+- Professional-grade architecture
+- Clean code principles
+- Ready for production deployment
