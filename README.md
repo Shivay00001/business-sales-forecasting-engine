@@ -1,5 +1,7 @@
 # Business Sales Forecasting Engine
 
+Built by [VisionQuantech](https://visionquantech.com) — AI agents, apps & tools for small businesses.
+
 Hybrid C++/Python sales forecasting engine with Docker, CI/CD, and web dashboard.
 
 ![Language](https://img.shields.io/badge/Language-HTML-blue)
